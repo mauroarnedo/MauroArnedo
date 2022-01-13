@@ -10,7 +10,7 @@ Javascript, React, Redux, NodeJs, Express, Sequelize.
 ### 📌 My Proyects:
 **PI-Countries:** Desarrollo de una SPA (Single Page Application) utilizando React para el Front end y Redux como state management. Todos los componentes desarrollados con CSS sin uso de librerías externas. La SPA consume datos de una API("REST COUNTRIES") a través de un Back end desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. Algunos features del proyecto: Cache de búsquedas, ordenamientos y filtros, formulario controlado para creación de una actividad turística.
 
-**E-Commerce:** Actualmente, estoy trabajando en un equipo de 8 integrantes para el desarrollo de una E-Commerce para la empresa Agroecologica Machi, ubicada en Córdoba, Argentina.
+**E-Commerce Machi:** desarrollo de una e-commerce, en colaboracion de 8 integrantes, para la empresa Agroecologica Machi ubicada en Cordoba, Argentina. En la misma puedes consultar y realizar compras de productos agroecologicos y mucho mas!
 
 ### 📫 How to reach me:
 <p>
