@@ -20,9 +20,6 @@ Javascript, React, Redux, NodeJs, Express, Sequelize.
   <a href="mauro.arnedo7@gmail.com">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="30" width="30"/>
   </a>
-  <a href="https://wa.link/4l75xg">
-    <img align="center" src="https://i.pinimg.com/originals/91/08/3a/91083a3774555ce1cddc5178a0f5c552.png" height="30" width="30" />
-  </a>
 </p>  
 <!--
 **mauroarnedo/MauroArnedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
