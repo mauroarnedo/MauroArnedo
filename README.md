@@ -5,7 +5,7 @@
 ### ⚙ Languages and Tools:
 Javascript, React, Redux, NodeJs, Express, Sequelize.
 
-**Actualmente** estoy aprendiendo React Native, TypeScript, SCRUM.
+**Actualmente** estoy aprendiendo TypeScript, mongoDB.
 
 ### 📌 My Proyects:
 **PI-Countries:** Desarrollo de una SPA (Single Page Application) utilizando React para el Front end y Redux como state management. Todos los componentes desarrollados con CSS sin uso de librerías externas. La SPA consume datos de una API("REST COUNTRIES") a través de un Back end desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. Algunos features del proyecto: Cache de búsquedas, ordenamientos y filtros, formulario controlado para creación de una actividad turística.
