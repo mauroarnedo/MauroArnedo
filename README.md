@@ -1,4 +1,4 @@
-# Hi, I'm Mauro 👋
+# Hey, I'm Mauro 👋
 
 ## Full Stack Developer💻
 
