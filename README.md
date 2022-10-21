@@ -3,16 +3,13 @@
 ## Full Stack Developer💻
 
 ### ⚙ Languages and Tools:
-Javascript, React, Redux, NodeJs, Express, Sequelize.
+Html, Css, Javascript, TypeScript, React, Redux, NodeJs, Express, PostgreSQL, MongoDb, Go.
 
-**Actualmente** estoy aprendiendo TypeScript, mongoDB.
+**Currently** I'm learning Go
 
-### 📌 My Proyects:
-**PI-Countries:** Desarrollo de una SPA (Single Page Application) utilizando React para el Front end y Redux como state management. Todos los componentes desarrollados con CSS sin uso de librerías externas. La SPA consume datos de una API("REST COUNTRIES") a través de un Back end desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. Algunos features del proyecto: Cache de búsquedas, ordenamientos y filtros, formulario controlado para creación de una actividad turística.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=glsl,astro,rust)](https://github.com/anuraghazra/github-readme-stats)
 
-**E-Commerce Machi:** desarrollo de una e-commerce, en un equipo de 7 integrantes, para la empresa Agroecologica Machi ubicada en Cordoba, Argentina. En la misma hemos  utilizado React para el front y Redux como state management. Los componentes desarrollados con CSS y Material UI. Desarrollamos el back end en Node.Js utilizando Express, passport para iniciar y mantener la sesion y mailer.js para cambio de contraseña de usuario y confirmaciones de compra.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroarnedo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroarnedo&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me:
 <p>
