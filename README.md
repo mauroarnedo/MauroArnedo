@@ -12,12 +12,14 @@ Javascript, React, Redux, NodeJs, Express, Sequelize.
 
 **E-Commerce Machi:** desarrollo de una e-commerce, en un equipo de 7 integrantes, para la empresa Agroecologica Machi ubicada en Cordoba, Argentina. En la misma hemos  utilizado React para el front y Redux como state management. Los componentes desarrollados con CSS y Material UI. Desarrollamos el back end en Node.Js utilizando Express, passport para iniciar y mantener la sesion y mailer.js para cambio de contraseña de usuario y confirmaciones de compra.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroarnedo)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 How to reach me:
 <p>
   <a href="https://www.linkedin.com/in/mauro-arnedo/">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"/>
   </a>
-  <a href="mauro.arnedo7@gmail.com">
+  <a href="mailto:mauro.arnedo7@gmail.com">
     <img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" height="30" width="30"/>
   </a>
 </p>  
