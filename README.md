@@ -7,7 +7,7 @@ Html, Css, Javascript, TypeScript, React, Redux, NodeJs, Express, PostgreSQL, Mo
 
 **Currently** I'm learning Go
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroarnedo&layout=compact&hide=glsl,astro,rust)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroarnedo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroarnedo&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
